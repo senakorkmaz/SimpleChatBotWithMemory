@@ -12,9 +12,8 @@ This is a simple chatbot application built using **LangChain**, **Streamlit**, a
 ##  Tech Stack
 
 - [LangChain](https://www.langchain.com/)
-- [Streamlit](https://streamlit.io/)
 - [OpenAI API](https://platform.openai.com/)
-- Python 3.9+
+- Python 3.12+
 
 ## 📁 Project Structure
 
